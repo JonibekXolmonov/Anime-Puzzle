@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anime Puzzle</string>
+    <string name="play">PLAY</string>
+    <string name="final_piece">FINAL PIECE</string>
+    <string name="preview">PREVIEW</string>
+    <string name="sound">sound</string>
+    <string name="music">music</string>
+</resources>
